@@ -11,8 +11,8 @@ This is a Python project that helps in managing student grades. It allows teache
 ## Requirements
 
 This project requires the following Python libraries:
-- `matplotlib` (for generating the bar chart visualization)
-- `reportlab` (for generating PDF reports)
+
+- **reportlab** (for generating PDF reports and bar chart visualizations)
 
 To install the required libraries, simply run:
 ```bash
