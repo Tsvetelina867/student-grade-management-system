@@ -10,11 +10,12 @@ This is a Python project that helps in managing student grades. It allows teache
 
 ## Requirements
 
-This project requires the following Python libraries:
+This project requires the following Python library:
 
 - **reportlab** (for generating PDF reports and bar chart visualizations)
 
-To install the required libraries, simply run:
+To install it, simply run:
+
 ```bash
-pip install -r requirements.txt
+pip install reportlab
 
